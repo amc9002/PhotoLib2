@@ -1,0 +1,18 @@
+# ASP.NET Core
+bin/
+obj/
+appsettings.json
+appsettings.Development.json
+Uploads/
+
+# Node.js
+node_modules/
+dist/
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
